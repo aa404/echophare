@@ -42,7 +42,7 @@ Before you get started, make sure you have the following tools installed:
 4. Configure the API URL in the `lib/config.dart` file:
 
     ```dart
-    const String apiUrl = 'https://www.echophare.com/wp-json/wp/v2/';
+    const String baseUrl = 'https://www.echophare.com';
     ```
 
 ## Usage
